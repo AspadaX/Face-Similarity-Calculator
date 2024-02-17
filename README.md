@@ -17,6 +17,11 @@ pip install -r requirements.txt
 ```
 or, you may want to use it with a conda environment:
 ```
+git clone https://github.com/AspadaX/Face-Similarity-Calculator.git
+cd Face-Similarity-Calculator
+conda create -n FaceSimilarityCalculator python==3.11.4
+conda activate FaceSimilarityCalculator
+pip install -r requirements.txt
 ```
 
 ## Usage
